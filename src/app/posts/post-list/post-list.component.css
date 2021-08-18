@@ -1,0 +1,14 @@
+:host {
+  display: block;
+  margin-top: 1rem;
+}
+#noPost {
+  text-align: center;
+  color: red;
+  font-size: larger;
+  font-family:'Trebuchet MS', 'Arial Narrow', Arial, sans-serif;
+}
+
+mat-spinner {
+  margin: auto;
+}
